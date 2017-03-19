@@ -1,5 +1,5 @@
 {
-  "name": "Lenin-Grad",
+  "name": "Leennor-SPb",
   "version": "1.0.0",
   "description": "project for mkdev",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "lenin-grad",
+    "Leennor-SPb",
     "mkdev"
   ],
   "author": "Evgeny Prygunov",
